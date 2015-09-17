@@ -1,0 +1,13 @@
+Classifying web applications on the basis of the use to value ratio of their information.
+
+A versioning (revision control) system that is also a helpdesk.
+
+Automation - products contact users when their expected lifespans expire.
+
+Blog widget - indicates where the comments start.
+
+Create vbScript on NovaBackup that accesses Access Excel import component.
+
+A joke is a form of Socratic dialogue.
+
+MariaDB mySQL Percona
